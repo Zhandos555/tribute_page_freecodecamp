@@ -1,0 +1,40 @@
+#title {
+  text-align: center;
+  font-size: 50px;
+}
+#subtitle {
+  text-align: center;
+  font-size: 15px;
+}
+#main {
+  background-color: rgb(233, 230, 230);
+  margin: 5px;
+}
+#img-div {
+  align-items: center;
+  background-color: white;
+  width: 85%;
+  height: 85%;
+  margin: auto;
+}
+#title {
+  font-size: 40px;
+}
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+  padding-top: 15px;
+}
+#img-caption {
+  text-align: center;
+  padding-bottom: 10px;
+}
+#margin {
+  padding: 5px;
+}
+#link-text {
+  text-align: center;
+  font-weight: 900;
+}
